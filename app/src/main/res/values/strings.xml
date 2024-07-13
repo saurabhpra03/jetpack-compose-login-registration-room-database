@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ComposeAuthentication</string>
+    <string name="name">Name</string>
+    <string name="error_name">Please enter a name.</string>
+    <string name="email_id">Email id</string>
+    <string name="error_email_id">Please enter a email id.</string>
+    <string name="invalid_email_id">Please enter an valid email id</string>
+    <string name="password">Password</string>
+    <string name="error_password">Please enter a password.</string>
+    <string name="invalid_password_length">Password length must be at least 5 characters</string>
+    <string name="sign_up">Sign up</string>
+    <string name="already_account_sign_in">Already you have an account? Sign in</string>
+    <string name="sign_in">Sign in</string>
+    <string name="not_account_sign_up">Don\'t have an account? Sign up</string>
+    <string name="email_already_exists">Email Id already exists</string>
+    <string name="something_went_wrong">Something went wrong.</string>
+    <string name="email_or_password_not_exists">Email ID or Password doesn\'t exists</string>
+    <string name="logout">Logout</string>
+
+</resources>
